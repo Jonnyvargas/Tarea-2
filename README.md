@@ -1,6 +1,7 @@
 # 📘 Investigación sobre Nuevas Arquitecturas de Computación
 
 Este repositorio contiene una investigación académica sobre diferentes **arquitecturas de computación emergentes**, sus principios de funcionamiento, ventajas, desventajas e hitos históricos.  
+(imagen/1.png)
 
 ---
 
