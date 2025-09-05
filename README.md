@@ -1,7 +1,7 @@
 # 📘 Investigación sobre Nuevas Arquitecturas de Computación
 
 Este repositorio contiene una investigación académica sobre diferentes **arquitecturas de computación emergentes**, sus principios de funcionamiento, ventajas, desventajas e hitos históricos.  
-![Texto alternativo](ruta/de/imagen)
+
 
 ---
 
@@ -17,6 +17,7 @@ Este repositorio contiene una investigación académica sobre diferentes **arqui
 
 ## 1. Computación Cuántica  
 La **computación cuántica** es un paradigma que aprovecha los principios de la mecánica cuántica para procesar información. A diferencia de los computadores clásicos que usan **bits** (0 o 1), un computador cuántico emplea **qubits**, que pueden estar en superposición de 0 y 1 al mismo tiempo.  
+![](imagenes/1.jpg/)
 
 ### Arquitectura  
 - **Qubits**: unidades fundamentales de información.  
@@ -47,7 +48,7 @@ En los 1980, Richard Feynman y David Deutsch propusieron la computación cuánti
 
 ## 2. Computación Neuromórfica  
 La **computación neuromórfica** imita el funcionamiento del cerebro humano para procesar información de manera eficiente y paralela.  
-
+![](imagenes/2.jpg/)
 ### Arquitectura  
 - **Neuronas artificiales**: nodos que procesan información.  
 - **Sinapsis electrónicas**: conexiones entre neuronas.  
